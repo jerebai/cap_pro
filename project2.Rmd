@@ -48,7 +48,7 @@ Distributions were created for each set of n-grams, based on relative frequency.
 ![](/image/big1.png)<!-- -->
 
 ## Tri-gram Distribution
-![](/image/tri1.png)<!-- -->
+![](/image/trig1.png)<!-- -->
 
 ## Quad-gram Distribution
 ![](/image/quad1.png)<!-- -->
